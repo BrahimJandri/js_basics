@@ -1,0 +1,22 @@
+{
+  "name": "is_test",
+  "version": "1.0.0",
+  "description": "yes it's a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrahimJandri/npm.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Brahim Jandri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrahimJandri/npm/issues"
+  },
+  "homepage": "https://github.com/BrahimJandri/npm#readme"
+}
